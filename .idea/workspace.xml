@@ -2,10 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b65d35ea-e706-42c9-acc9-9538129eee12" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sampleTests" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/learningSelenium.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/learningSelenium.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -169,12 +165,12 @@
       <option name="presentableId" value="Default" />
       <updated>1533752785204</updated>
       <workItem from="1533752787515" duration="1193000" />
-      <workItem from="1533754021415" duration="927000" />
+      <workItem from="1533754021415" duration="1124000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2120000" />
+    <option name="totallyTimeSpent" value="2317000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="15" y="23" width="1280" height="777" extended-state="0" />
